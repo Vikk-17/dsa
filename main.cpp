@@ -47,7 +47,7 @@ void armstrong(int num){
           (cout << "This is not armstrong number\n"); 
 }
 
-int main(){
+int main(int argc, char *argv[]){
     int number;
     
     cout << "Enter the value of number: ";
